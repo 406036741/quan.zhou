@@ -26,6 +26,8 @@ public class JDUpload extends JDApiBase {
 		int w, h;
 		PicSize(int w1, int h1) {
 			w = w1;
+			
+			
 			h = h1;
 		}
 	}
